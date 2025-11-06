@@ -12,7 +12,7 @@ function smallestNumber(arr){
 
 
 // Example inputs
-const input1 = [0, 1, 2, 4];
+const input1 = [0, 1, 2, 4, 5];
 const input2 = [3, 0, 1];
 const input3 = [];
 
